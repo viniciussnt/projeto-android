@@ -130,7 +130,7 @@ main a {
     color: var(--cor5);
     background-color: var(--cor1);
     background-color: var(--cor1);
-    paddin: 2px 6px;
+    padding: 2px 6px;
 }
 
 main a:hover {
